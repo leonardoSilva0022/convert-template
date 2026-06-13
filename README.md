@@ -6,7 +6,7 @@ Conversor de moedas simples e elegante, com interface dark e cotações em tempo
 
 ## 📸 Preview
 
-![Preview do site Convert](preview.png)
+![Preview do site Convert](./convert-template-main/img/preview.png)
 
 ---
 
